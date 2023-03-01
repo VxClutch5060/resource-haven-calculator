@@ -7,3 +7,8 @@ body {
   height: 10px;
   margin: 5px;
 }
+.player {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
