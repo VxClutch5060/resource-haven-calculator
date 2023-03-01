@@ -1,7 +1,7 @@
 body {
   
 }
-.player input[type=text]{
+.player input{
   border-width: 0px;
   border-bottom-width: 3px;
   height: 10px;
